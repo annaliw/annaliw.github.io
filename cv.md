@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Curriculum Vitae"
 ---
 
-<embed src="anna_wang-website.pdf" type="application/pdf"/>
+<object data="anna_wang-website.pdf" width="1000" height="1000" type='application/pdf'></object>
